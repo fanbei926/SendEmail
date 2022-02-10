@@ -1,4 +1,4 @@
-module github.com/fanbei926/sendemail
+module github.com/fanbei926/sendemail.v1
 
 go 1.17
 
